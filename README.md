@@ -20,10 +20,4 @@ Using this version you are able to read from a different fd per call without los
 
 ## USAGE
 
-`make` to compile mandatory part
-
-`make bonus` to compile bonus version
-
-`make clean` to remove object files
-
-`make fclean` to remove *.o + 
+Launch to ur programm and run as a normal function 🤷‍♀️
